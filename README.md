@@ -4,7 +4,7 @@
   <a href="https://github.com/mertcelik2196" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
-<center
+<center>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertcelik2196&theme=dark&show_icons=true" />
     <br>
  <hr>
