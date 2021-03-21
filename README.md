@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertcelik2196&theme=dark&show_icons=true" />
   <img src="https://github-readme-stats.vercel.app/api?username=mertcelik2196&count_private=true&show_icons=true&theme=purple&hide_border=true" width="%100" height="150px" alt="stats" />
 </p>
 
