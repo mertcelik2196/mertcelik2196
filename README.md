@@ -14,7 +14,7 @@
 <br>
 <br>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mertcelik2196&theme=dracula" alt="Stat" width:"85%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mertcelik2196&theme=dracula" alt="Stat" width:"20%"/>
 </div>
 
 
