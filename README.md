@@ -10,8 +10,10 @@
 <br>
 <hr>
 <br>
-# Friends
+
+# Arkadaşlarım
 - **[@payidarofficial](https://github.com/payidarofficial)**
+
 <br>
 <hr>
 <br>
