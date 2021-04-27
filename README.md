@@ -3,8 +3,8 @@
   <br><br>
   <a href="https://discord.com/users/708746139092123679" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a><br>
   <a href="https://open.spotify.com/user/q6d0x5orjs4dw4hpxg5qpxz9l" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a><br>
-  <a href="https://github.com/mertcelik2196" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a><br>
-    <a href="https://www.npmjs.com/~mert..1010"><img src="https://img.shields.io/badge/mert..1010%20-1d202b.svg?&style=for-the-badge&logo=npm&logoColor=white" /></a><br>
+ <a href="https://www.npmjs.com/~mert..1010"><img src="https://img.shields.io/badge/mert..1010%20-1d202b.svg?&style=for-the-badge&logo=npm&logoColor=white" /></a><br>
+ <a href="https://github.com/mertcelik2196" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a><br>
 </p>
 
 <div align="center">
