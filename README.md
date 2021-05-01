@@ -28,3 +28,8 @@
 <img align="center" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/>     
 <img align="center" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 </div>
+
+<div align="center">
+
+[![Image](https://cdn.discordapp.com/attachments/838063860928872469/838123752423686164/unknown.png)](https://discord.gg/FXWkSJYm)
+</div>
