@@ -34,6 +34,4 @@
 <br>
 <div align="center">
 
-
-![Discord](https://discord.c99.nl/widget/theme-1/708746139092123679.png)
 </div>
