@@ -34,7 +34,5 @@
 <br>
 <div align="center">
      
-![Discord](https://discord.c99.nl/widget/theme-3/708746139092123679.png)     
-
 [![Image](https://cdn.discordapp.com/attachments/838063860928872469/838123752423686164/unknown.png)](https://discord.gg/FXWkSJYm)
 </div>
