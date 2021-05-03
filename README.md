@@ -33,5 +33,7 @@
 <br>
 <br>
 <div align="center">
-<img align="center" alt="Discord" src="https://discord.com/widget?id=792884783905767475&theme=dark" width="350" height="500>
+
+
+![Discord](https://discord.c99.nl/widget/theme-1/708746139092123679.png)
 </div>
