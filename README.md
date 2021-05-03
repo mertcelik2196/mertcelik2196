@@ -32,7 +32,4 @@
 </div>
 <br>
 <br>
-<div align="center">
-     
-[![Image](https://cdn.discordapp.com/attachments/838063860928872469/838123752423686164/unknown.png)](https://discord.gg/FXWkSJYm)
-</div>
+
